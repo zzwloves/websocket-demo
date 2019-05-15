@@ -7,8 +7,5 @@ package io.vicp.zzwloves.websocket;
  */
 public class GitLearning {
     public static void main(String[] args) {
-        System.out.println("hello world");
-        System.err.println("ddddd");
-        System.out.println("fffffff");
     }
 }
