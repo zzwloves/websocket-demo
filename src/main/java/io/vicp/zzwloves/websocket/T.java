@@ -8,7 +8,7 @@ package io.vicp.zzwloves.websocket;
 public class T {
 
     public static void main(String[] args) {
-
+        System.out.println("hello world");
     }
 
 }
