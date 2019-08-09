@@ -12,6 +12,7 @@
     <artifactId>websocket-demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>websocket-demo</name>
+    <packaging>war</packaging>
     <description>Demo project for Spring Boot</description>
 
     <properties>
